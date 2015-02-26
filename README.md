@@ -1,16 +1,18 @@
-<<<<<< HEAD
-<<<<<<< HEAD
-# Gogol
 Gogols products
 
 1. Arabeski
 2. Deadsouls
 3. Revisor
-=======
-Lev tolstoy writings list.
->>>>>>> PrancingRat-tolstoy_lev/master
-=======
-whitestone.txt
-DinDon.txt
-Minute
->>>>>>> unkarjedy-Annenskiy/master
+
+Tolstoy products
+
+1. AnnaKarenina
+2. warandpeace
+3. index
+
+Annenskiy products
+
+1. whitestone.txt
+2. DinDon.txt
+3. Minute
+
