@@ -1,3 +1,4 @@
+<<<<<< HEAD
 <<<<<<< HEAD
 # Gogol
 Gogols products
@@ -8,3 +9,8 @@ Gogols products
 =======
 Lev tolstoy writings list.
 >>>>>>> PrancingRat-tolstoy_lev/master
+=======
+whitestone.txt
+DinDon.txt
+Minute
+>>>>>>> unkarjedy-Annenskiy/master
