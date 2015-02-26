@@ -1,4 +1,6 @@
 # Gogol
 Gogols products
 
-Stepan: Revisor incoming!
+1. Arabeski
+2. Deadsouls
+3. Revisor
